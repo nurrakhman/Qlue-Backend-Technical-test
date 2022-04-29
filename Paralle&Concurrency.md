@@ -12,4 +12,4 @@ Apabila dapur melakukan pendekatan Parallel maka akan ada 2 koki yang mengerjaka
 
 Apabila dapur melakukan pendekatan Concurrency maka hanya 1 koki yang bertanggung jawab untuk mempersiapkan 2 pesanan, contoh: selagi koki menunggu nasi matang koki akan memeras jeruk, setelah beres peras jeruk koki kembali memasak nasi dan seterusnya, koki akan berpindah-pindah mempersiapkan 2 pesanan tersebut sampai kedua pesanan tersebut siap
 
-![Alt text](concurrent.png?raw=true "Koki Parallel")
+![Alt text](concurrent.png?raw=true "Koki Concurrency")
